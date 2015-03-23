@@ -23,7 +23,7 @@ How to use it?
     < numeric-keyboard /> 
 > - In your input field add the directive **numeric-keyboard-input** like this 
 
-    p id="output-text" numeric-keyboard-input="" ng-model="simple" ng-bind="simple"></p>
+    <p id="output-text" numeric-keyboard-input="" ng-model="simple" ng-bind="simple"></p>
 
 
 
