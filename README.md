@@ -12,6 +12,13 @@ Because browsers and mobile platforms never agree altogether on one Numeric Keyp
 
 ----------
 
+Architect?
+-------------
+
+
+> - Numeric Keyboard Directive: which should be only one copy in the whole app. It's template is the actual keyboard.
+> - Numeric Keyboard Input Directive: It's a clickable directive that opens your keyboard, you need to attach it to the editable element where you want your input to be.
+> - Numeric Keyboard Service: which handles the communication between the two directives.
 
 How to use it?
 -------------
